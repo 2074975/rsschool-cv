@@ -30,3 +30,18 @@ const myCity = {
     };
 myCity.cityGreeting();
 ```
+
+### Education
+
+- **Kharkiv national automobile & highway university**
+
+  - Faculty of Mechanics
+
+- **Udemy**
+  - html and CSS
+  - JavaScript(basic)
+
+### Languages:
+
+- Russian- Native
+- Englist in pross...
