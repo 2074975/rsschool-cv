@@ -10,3 +10,23 @@
 ###About Me
 
 I am responsible, proactive, stress-resistant, sociable, honest. My strengths are good management and leadership skills, customer focus, systems thinking, positive attitude. I don't drink, I don't smoke
+
+###Skills:
+
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+- Adobe Photoshop
+
+###Code Examples
+
+```
+const myCity = {
+    city: "New York",
+    cityGreeting: function () {
+        console.log("Greetings!!!");
+        },
+    };
+myCity.cityGreeting();
+```
