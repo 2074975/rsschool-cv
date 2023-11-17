@@ -2,10 +2,10 @@
 
 ### My Contact Info:
 
-**Phone:** +38 063 207 49 75
-**E-mail:** 2074975@gamil.com
-**GitHub:** 2074975
-**Discord:** 2074975
+- **Phone:** +38 063 207 49 75
+- **E-mail:** 2074975@gamil.com
+- **GitHub:** 2074975
+- **Discord:** 2074975
 
 ### About Me
 
@@ -43,5 +43,5 @@ myCity.cityGreeting();
 
 ### Languages:
 
-- Russian- Native
+- Russian - Native
 - Englist in pross...
