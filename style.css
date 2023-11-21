@@ -3,7 +3,7 @@ html {
   max-width: 1200px;
   margin: 0 auto;
   background: #ffffff;
-  border: 1px solid #000;
+  /* border: 1px solid #000; */
   scroll-behavior: smooth;
   font-size: 20px;
   line-height: 30px;
@@ -20,9 +20,17 @@ html {
   display: flex;
   margin: 30px 20px;
 }
+.code{
+  font-size: 16px;
+  line-height: 20px;
+}
 
 .left {
-  background-color: #9b9baa;
+  background-color: #c5c5cf;
+}
+
+.lift__title{
+  margin-left: 20px;
 }
 .skills li,
 .contact li {
@@ -35,8 +43,8 @@ html {
 }
 
 .right {
-  margin: 20px;
-  padding: 10px;
+  margin: 20px 20px 20px 80px;
+
 }
 
 .footer__list{
@@ -55,4 +63,7 @@ html {
 .item-school:hover,
 .link__github:hover{
   color: rgb(17, 0, 252);
+}
+.faculty{
+  list-style: none;
 }
