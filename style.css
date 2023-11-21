@@ -1,22 +1,21 @@
-html {
+html{
   display: block;
   max-width: 1200px;
   margin: 0 auto;
   background: #ffffff;
-  /* border: 1px solid #000; */
   scroll-behavior: smooth;
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
 }
-.header {
+.header{
   max-width: 100%;
 }
-.header h1 {
+.header h1{
   margin: 30px auto;
   text-align: center;
 }
-.wrapper {
+.wrapper{
   display: flex;
   margin: 30px 20px;
 }
@@ -24,29 +23,25 @@ html {
   font-size: 16px;
   line-height: 20px;
 }
-
-.left {
+.left{
   background-color: #c5c5cf;
 }
-
 .lift__title{
   margin-left: 20px;
 }
 .skills li,
-.contact li {
+.contact li{
   margin-left: -20px;
   /* text-decoration: none; */
   list-style: none;
 }
-.contact li span {
+.contact li span{
   font-weight: bold;
 }
-
-.right {
+.right{
   margin: 20px 20px 20px 80px;
 
 }
-
 .footer__list{
   display: flex;
   justify-content: space-between;
